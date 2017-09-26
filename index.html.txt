@@ -1,0 +1,3 @@
+ener un archivo index subido a nuestro dominio es fundamental si se quiere tener una página web que funcione. Se puede decir más alto pero no más claro: sin index no hay página web. Así pues es sumamente importante tener un archivo index.
+
+El tema esta en que cuando creamos una página web en Internet el primer paso que hay que tener en cuenta es crear el archivo index.html
